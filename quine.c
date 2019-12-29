@@ -1,0 +1,1 @@
+int main() { char* output = "int main() { char* output = %c%s%c; printf(output, 34, output, 34); }"; printf(output, 34, output, 34); }
